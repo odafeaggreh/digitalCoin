@@ -1,0 +1,899 @@
+[23-May-2021 09:14:36 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[23-May-2021 09:14:36 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[23-May-2021 09:14:36 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[23-May-2021 09:14:36 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[23-May-2021 09:14:36 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[23-May-2021 09:23:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[23-May-2021 09:23:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-May-2021 09:24:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[23-May-2021 09:24:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-May-2021 09:24:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-May-2021 16:39:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[23-May-2021 16:41:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-May-2021 16:42:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-May-2021 20:30:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:25:17 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[27-May-2021 10:25:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:25:45 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-May-2021 10:25:45 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-May-2021 10:25:45 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-May-2021 10:25:45 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-May-2021 10:25:45 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-May-2021 10:25:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:25:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-May-2021 10:28:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:29:35 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 10:29:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 13:08:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 13:08:23 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-May-2021 13:08:55 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-May-2021 13:08:55 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-May-2021 13:08:55 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-May-2021 13:08:55 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-May-2021 13:08:55 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-May-2021 13:08:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 02:31:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 13:32:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 13:33:26 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-May-2021 13:34:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 14:12:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 14:12:15 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-May-2021 14:12:15 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-May-2021 14:12:15 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-May-2021 14:12:15 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-May-2021 14:12:15 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-May-2021 14:12:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-May-2021 16:18:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[28-May-2021 16:19:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-May-2021 03:46:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-May-2021 07:42:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[31-May-2021 15:24:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[31-May-2021 15:24:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[31-May-2021 15:24:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[31-May-2021 15:24:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[31-May-2021 15:24:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[01-Jun-2021 14:07:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Jun-2021 14:07:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[01-Jun-2021 14:16:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Jun-2021 14:17:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Jun-2021 11:34:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Jun-2021 11:38:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header_member.php on line 4
+[02-Jun-2021 11:39:48 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Jun-2021 12:18:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Jun-2021 22:35:15 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[03-Jun-2021 22:35:15 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[03-Jun-2021 22:35:15 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[03-Jun-2021 22:35:15 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[03-Jun-2021 22:35:15 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[03-Jun-2021 22:56:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jun-2021 00:49:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[17-Jun-2021 14:18:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/dashboard.php on line 4
+[17-Jun-2021 14:18:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/header.php on line 3
+[17-Jun-2021 14:22:31 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[17-Jun-2021 14:22:31 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[17-Jun-2021 14:22:31 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[17-Jun-2021 14:22:31 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[17-Jun-2021 14:22:31 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[17-Jun-2021 14:24:06 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[17-Jun-2021 14:24:06 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[17-Jun-2021 14:24:06 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[17-Jun-2021 14:24:06 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[17-Jun-2021 14:24:06 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 06:30:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 06:30:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 06:31:30 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[18-Jun-2021 06:31:30 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[18-Jun-2021 06:31:30 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[18-Jun-2021 06:31:30 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[18-Jun-2021 06:31:30 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 06:31:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 06:32:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 06:32:34 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[18-Jun-2021 06:32:34 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[18-Jun-2021 06:32:34 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[18-Jun-2021 06:32:34 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[18-Jun-2021 06:32:34 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 06:32:35 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 07:46:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 15:44:00 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[18-Jun-2021 15:44:00 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[18-Jun-2021 15:44:00 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[18-Jun-2021 15:44:00 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[18-Jun-2021 15:44:00 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 15:45:05 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[18-Jun-2021 15:45:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[18-Jun-2021 15:45:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[18-Jun-2021 15:45:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[18-Jun-2021 15:45:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 15:47:46 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[18-Jun-2021 15:47:46 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[18-Jun-2021 15:47:46 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[18-Jun-2021 15:47:46 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[18-Jun-2021 15:47:46 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[18-Jun-2021 15:50:17 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Jun-2021 16:07:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:13:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:14:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[19-Jun-2021 08:15:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[19-Jun-2021 08:15:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:15:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:16:04 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[19-Jun-2021 08:16:04 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[19-Jun-2021 08:16:04 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[19-Jun-2021 08:16:04 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[19-Jun-2021 08:16:04 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[19-Jun-2021 08:16:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:16:21 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[19-Jun-2021 08:16:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 09:40:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 09:40:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 12:11:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 12:12:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jun-2021 12:12:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:09:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:09:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:09:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:10:38 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[20-Jun-2021 11:10:38 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[20-Jun-2021 11:10:38 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[20-Jun-2021 11:10:38 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[20-Jun-2021 11:10:38 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[20-Jun-2021 11:10:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:10:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 11:11:14 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[20-Jun-2021 11:11:14 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[20-Jun-2021 11:11:14 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[20-Jun-2021 11:11:14 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[20-Jun-2021 11:11:14 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[20-Jun-2021 11:11:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 16:54:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 17:18:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 17:18:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jun-2021 22:23:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[21-Jun-2021 02:38:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[21-Jun-2021 05:16:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[21-Jun-2021 12:37:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[21-Jun-2021 12:37:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 04:22:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 04:24:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 04:24:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 04:27:17 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[22-Jun-2021 04:27:17 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[22-Jun-2021 04:27:17 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[22-Jun-2021 04:27:17 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[22-Jun-2021 04:27:17 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[22-Jun-2021 04:27:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 04:28:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 05:16:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:28:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:30:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:31:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:48:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:52:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:53:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 09:54:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Jun-2021 15:09:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 02:44:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 02:44:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 02:46:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 02:46:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 02:46:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 08:45:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Jun-2021 08:45:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 03:57:25 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 03:57:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 03:59:08 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[24-Jun-2021 03:59:08 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[24-Jun-2021 03:59:08 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[24-Jun-2021 03:59:08 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[24-Jun-2021 03:59:08 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[24-Jun-2021 03:59:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 03:59:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 04:06:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jun-2021 05:51:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 16:54:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 18:59:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:00:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:49:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:49:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:50:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:50:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:50:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 19:51:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 20:27:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 20:27:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Jun-2021 21:26:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jun-2021 21:52:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jun-2021 21:52:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jun-2021 21:58:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jun-2021 21:58:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:06:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:06:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:13:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:13:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:13:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:15:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:30:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 04:31:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 17:00:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 17:00:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 17:00:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jun-2021 17:02:13 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-Jun-2021 17:02:13 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-Jun-2021 17:02:13 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-Jun-2021 17:02:13 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-Jun-2021 17:02:13 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-Jun-2021 17:02:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 04:18:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 04:18:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jun-2021 04:21:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:24:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:25:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:25:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:28:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:32:17 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:34:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:34:56 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jun-2021 23:34:56 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jun-2021 23:34:56 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jun-2021 23:34:56 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jun-2021 23:34:56 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jun-2021 23:34:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:35:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jun-2021 23:35:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:35:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jun-2021 23:36:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:36:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:36:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jun-2021 23:37:20 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jun-2021 23:39:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jun-2021 20:02:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[30-Jun-2021 11:40:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[30-Jun-2021 18:37:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Jul-2021 03:12:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Jul-2021 03:15:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Jul-2021 03:16:14 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[03-Jul-2021 03:16:14 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[03-Jul-2021 03:16:14 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[03-Jul-2021 03:16:14 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[03-Jul-2021 03:16:14 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[03-Jul-2021 03:16:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:24:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:25:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:27:33 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[04-Jul-2021 22:27:33 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[04-Jul-2021 22:27:33 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[04-Jul-2021 22:27:33 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[04-Jul-2021 22:27:33 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[04-Jul-2021 22:27:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:27:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:28:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:29:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:43:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:43:13 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[04-Jul-2021 22:43:13 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[04-Jul-2021 22:43:13 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[04-Jul-2021 22:43:13 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[04-Jul-2021 22:43:13 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[04-Jul-2021 22:43:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:43:23 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:43:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Jul-2021 22:43:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Jul-2021 13:51:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Jul-2021 13:51:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[05-Jul-2021 13:52:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 18:38:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 18:39:23 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 18:39:56 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[06-Jul-2021 18:39:56 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[06-Jul-2021 18:39:56 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[06-Jul-2021 18:39:56 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[06-Jul-2021 18:39:56 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[06-Jul-2021 18:39:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 18:40:26 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 18:41:03 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[06-Jul-2021 18:41:03 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[06-Jul-2021 18:41:03 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[06-Jul-2021 18:41:03 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[06-Jul-2021 18:41:03 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[06-Jul-2021 18:41:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Jul-2021 19:21:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:52:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:54:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:55:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:57:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[07-Jul-2021 10:57:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 10:58:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 11:09:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 11:09:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 11:10:09 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[07-Jul-2021 11:10:09 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[07-Jul-2021 11:10:09 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[07-Jul-2021 11:10:09 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[07-Jul-2021 11:10:09 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[07-Jul-2021 11:10:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 12:53:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 14:03:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 14:03:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 14:22:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 14:38:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 14:41:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 16:36:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 18:58:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 18:58:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 19:37:33 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 19:37:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 19:38:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 19:38:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Jul-2021 19:38:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Jul-2021 12:30:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Jul-2021 12:31:00 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Jul-2021 12:35:25 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[08-Jul-2021 12:35:26 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[08-Jul-2021 12:35:26 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[08-Jul-2021 12:35:26 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[08-Jul-2021 12:35:26 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[08-Jul-2021 12:35:26 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Jul-2021 12:47:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[08-Jul-2021 12:47:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:14:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:14:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:17:10 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 03:17:10 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 03:17:10 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 03:17:10 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 03:17:10 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 03:17:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:19:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:19:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 03:20:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 04:26:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 04:27:00 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 04:27:00 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 04:27:00 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 04:27:00 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 04:27:00 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 04:27:01 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 04:27:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 06:59:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 06:59:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 15:49:35 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 15:49:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 15:50:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 15:53:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[09-Jul-2021 15:54:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[10-Jul-2021 14:32:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[10-Jul-2021 14:32:33 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[10-Jul-2021 14:46:58 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[10-Jul-2021 14:46:59 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[10-Jul-2021 14:46:59 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[10-Jul-2021 14:46:59 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[10-Jul-2021 14:46:59 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[10-Jul-2021 14:46:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 10:48:01 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 10:48:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[11-Jul-2021 10:49:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 10:49:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[11-Jul-2021 10:50:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 14:53:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:06:01 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:06:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:06:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:06:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[11-Jul-2021 15:07:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 15:07:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 18:02:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 18:03:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 18:03:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Jul-2021 18:03:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:48:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[12-Jul-2021 01:48:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:55:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[12-Jul-2021 01:55:43 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:55:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:56:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:56:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[12-Jul-2021 01:56:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 16:53:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 16:53:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[12-Jul-2021 16:55:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 16:56:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[12-Jul-2021 18:32:25 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 01:17:17 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 01:18:44 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 01:18:44 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 01:18:44 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 01:18:44 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 01:18:44 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 01:18:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 01:19:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 01:19:42 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 01:19:43 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 01:19:43 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 01:19:43 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 01:19:43 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 01:19:43 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 01:53:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:30:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:31:06 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 03:31:07 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 03:31:07 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 03:31:07 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 03:31:07 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 03:31:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:31:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:31:41 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 03:31:41 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 03:31:41 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 03:31:41 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 03:31:41 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 03:31:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:49:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:49:27 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 03:49:27 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 03:49:27 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 03:49:27 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 03:49:27 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 03:49:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:51:09 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[13-Jul-2021 03:51:40 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[13-Jul-2021 03:51:40 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[13-Jul-2021 03:51:40 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[13-Jul-2021 03:51:40 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[13-Jul-2021 03:51:40 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[13-Jul-2021 03:51:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 07:08:23 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 07:09:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[14-Jul-2021 07:11:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 07:12:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 11:05:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[14-Jul-2021 11:08:16 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[14-Jul-2021 11:08:16 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[14-Jul-2021 11:08:16 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[14-Jul-2021 11:08:16 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[14-Jul-2021 11:08:16 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[14-Jul-2021 11:08:17 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[15-Jul-2021 16:58:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[16-Jul-2021 03:39:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[16-Jul-2021 13:06:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jul-2021 14:02:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jul-2021 14:03:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jul-2021 14:03:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[19-Jul-2021 14:03:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[20-Jul-2021 02:31:33 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 08:21:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 08:21:21 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 08:21:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 08:21:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 08:31:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 09:06:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 09:15:21 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[24-Jul-2021 09:36:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:13:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:14:23 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:14:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:14:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:57:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:57:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:57:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:57:48 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:57:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 11:58:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[26-Jul-2021 12:09:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 06:32:00 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 06:35:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 15:12:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-Jul-2021 15:13:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 15:13:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 15:13:34 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[27-Jul-2021 15:13:35 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[27-Jul-2021 15:13:35 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[27-Jul-2021 15:13:35 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[27-Jul-2021 15:13:35 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[27-Jul-2021 15:13:35 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Jul-2021 19:32:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 07:55:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 07:55:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jul-2021 07:56:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 11:21:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 11:22:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jul-2021 11:23:01 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 11:24:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 14:28:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jul-2021 14:28:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 17:12:33 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 17:13:19 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jul-2021 17:13:19 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jul-2021 17:13:19 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jul-2021 17:13:19 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jul-2021 17:13:19 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jul-2021 17:13:20 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 18:09:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[28-Jul-2021 18:09:49 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jul-2021 02:42:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jul-2021 02:42:45 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[29-Jul-2021 02:42:45 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[29-Jul-2021 02:42:45 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[29-Jul-2021 02:42:45 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[29-Jul-2021 02:42:45 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[29-Jul-2021 02:42:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jul-2021 03:04:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jul-2021 16:22:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[29-Jul-2021 16:22:43 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[29-Jul-2021 16:22:43 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[29-Jul-2021 16:22:43 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[29-Jul-2021 16:22:43 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[29-Jul-2021 16:22:43 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[29-Jul-2021 16:22:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[30-Jul-2021 01:06:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 03:02:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 03:02:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[31-Jul-2021 11:57:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 11:57:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[31-Jul-2021 11:58:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Jul-2021 14:55:25 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:13:48 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:14:14 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[01-Aug-2021 02:14:14 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[01-Aug-2021 02:14:14 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[01-Aug-2021 02:14:14 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[01-Aug-2021 02:14:14 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[01-Aug-2021 02:14:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:31:20 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[01-Aug-2021 02:31:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:32:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:32:46 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[01-Aug-2021 02:32:46 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[01-Aug-2021 02:32:46 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[01-Aug-2021 02:32:46 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[01-Aug-2021 02:32:46 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[01-Aug-2021 02:32:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:40:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 02:41:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 03:34:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Aug-2021 03:34:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Aug-2021 02:26:33 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Aug-2021 02:27:00 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Aug-2021 02:28:11 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[02-Aug-2021 02:28:11 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[02-Aug-2021 02:28:11 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[02-Aug-2021 02:28:11 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[02-Aug-2021 02:28:11 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[02-Aug-2021 02:28:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Aug-2021 02:28:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[02-Aug-2021 02:29:00 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[02-Aug-2021 02:29:00 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[02-Aug-2021 02:29:00 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[02-Aug-2021 02:29:00 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[02-Aug-2021 02:29:00 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[02-Aug-2021 02:29:01 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 06:00:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[03-Aug-2021 06:00:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 06:01:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[03-Aug-2021 06:01:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 14:43:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[03-Aug-2021 17:54:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 03:49:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 03:49:57 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 05:40:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 05:40:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 05:41:06 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[04-Aug-2021 05:41:06 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[04-Aug-2021 05:41:06 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[04-Aug-2021 05:41:06 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[04-Aug-2021 05:41:06 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[04-Aug-2021 05:41:07 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 07:39:08 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 07:39:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[04-Aug-2021 07:39:46 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 03:18:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 03:19:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 03:19:48 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 03:21:03 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[05-Aug-2021 03:21:04 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[05-Aug-2021 03:21:04 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[05-Aug-2021 03:21:04 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[05-Aug-2021 03:21:04 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[05-Aug-2021 03:21:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 14:05:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[05-Aug-2021 14:36:13 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 15:59:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 15:59:25 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 15:59:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 15:59:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:02:35 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[06-Aug-2021 20:25:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:25:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:26:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:26:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:26:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:26:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[06-Aug-2021 20:26:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Aug-2021 02:04:20 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Aug-2021 02:04:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Aug-2021 02:04:49 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[07-Aug-2021 02:04:49 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[07-Aug-2021 02:04:49 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[07-Aug-2021 02:04:49 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[07-Aug-2021 02:04:49 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[07-Aug-2021 02:04:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[07-Aug-2021 15:00:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 04:19:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 06:45:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 06:45:55 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[08-Aug-2021 06:45:55 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[08-Aug-2021 06:45:55 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[08-Aug-2021 06:45:55 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[08-Aug-2021 06:45:55 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[08-Aug-2021 06:45:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:21:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:21:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:22:02 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:22:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:22:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:22:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:22:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:23:24 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:23:34 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:23:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:23:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:05 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:29 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:52 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:24:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 18:25:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 19:21:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[08-Aug-2021 19:21:31 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[08-Aug-2021 19:21:31 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[08-Aug-2021 19:21:31 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[08-Aug-2021 19:21:31 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[08-Aug-2021 19:21:31 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[08-Aug-2021 19:21:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[09-Aug-2021 03:51:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[11-Aug-2021 05:20:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[15-Aug-2021 16:35:25 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[15-Aug-2021 16:36:21 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[15-Aug-2021 16:36:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[16-Aug-2021 03:41:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Aug-2021 01:55:16 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Aug-2021 01:55:47 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[18-Aug-2021 02:23:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[19-Aug-2021 05:57:42 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[21-Aug-2021 12:34:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Aug-2021 10:21:43 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[22-Aug-2021 10:22:06 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[23-Aug-2021 07:38:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 17:09:12 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 17:10:27 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 17:11:17 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[25-Aug-2021 17:11:17 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[25-Aug-2021 17:11:17 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[25-Aug-2021 17:11:17 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[25-Aug-2021 17:11:17 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[25-Aug-2021 17:11:18 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 19:15:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 19:16:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 19:31:32 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[25-Aug-2021 19:32:03 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Aug-2021 06:43:50 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[27-Aug-2021 06:44:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[28-Aug-2021 07:34:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Aug-2021 18:43:41 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Aug-2021 18:44:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Aug-2021 18:44:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[31-Aug-2021 18:45:13 America/New_York] PHP Notice:  Undefined variable: password in /home/digtdttj/public_html/admin/crud_update.php on line 62
+[31-Aug-2021 18:45:13 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 4
+[31-Aug-2021 18:45:13 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 5
+[31-Aug-2021 18:45:13 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 6
+[31-Aug-2021 18:45:13 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/admin/mysqli_connection.php on line 7
+[31-Aug-2021 18:45:14 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4
+[01-Sep-2021 05:40:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/admin/cre_header.php on line 4

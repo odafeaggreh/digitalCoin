@@ -1,0 +1,208 @@
+[19-May-2021 12:44:52 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digtdttj/public_html/PHPMailerAutoload.php on line 45
+[19-May-2021 13:32:29 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 13:32:29 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 13:32:29 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 13:32:29 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 13:33:01 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 13:33:01 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 13:33:01 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 13:33:01 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 13:33:31 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 13:33:31 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 13:33:31 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 13:33:31 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:12:11 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:12:11 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:12:11 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:12:11 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:34:21 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:34:21 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:34:21 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:34:21 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:35:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:35:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:35:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:35:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:35:26 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:35:26 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:35:26 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:35:26 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:42:57 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:42:57 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:42:57 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:42:57 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:43:59 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:43:59 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:43:59 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:43:59 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 14:44:05 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 14:44:05 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 14:44:05 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 14:44:05 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:07:47 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:07:47 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:07:47 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:07:47 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:08:30 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:08:30 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:08:30 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:08:30 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:08:38 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:08:38 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:08:38 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:08:38 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:23:53 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:23:53 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:23:53 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:23:53 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:25:00 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digtdttj/public_html/PHPMailerAutoload.php on line 45
+[19-May-2021 15:25:25 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:25:25 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:25:25 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:25:25 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:27:09 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:27:09 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:27:09 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:27:09 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:57:37 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:57:37 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:57:37 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:57:37 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 15:59:45 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 15:59:45 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 15:59:45 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 15:59:45 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 16:00:16 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 16:00:16 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 16:00:16 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 16:00:16 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 16:00:57 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 16:00:57 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 16:00:57 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 16:00:57 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[19-May-2021 16:04:40 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[19-May-2021 16:04:40 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[19-May-2021 16:04:40 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[19-May-2021 16:04:40 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[20-May-2021 08:10:34 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[20-May-2021 08:10:34 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[20-May-2021 08:10:34 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[20-May-2021 08:10:34 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[22-May-2021 13:29:16 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[22-May-2021 13:29:16 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[22-May-2021 13:29:16 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[22-May-2021 13:29:16 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[22-May-2021 13:30:00 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digtdttj/public_html/PHPMailerAutoload.php on line 45
+[22-May-2021 13:30:30 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[22-May-2021 13:30:30 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[22-May-2021 13:30:30 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[22-May-2021 13:30:30 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[23-May-2021 02:20:25 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/digtdttj/public_html/mysqli_connection.php on line 4
+[23-May-2021 02:20:25 America/New_York] PHP Notice:  Constant DB_USER already defined in /home/digtdttj/public_html/mysqli_connection.php on line 5
+[23-May-2021 02:20:25 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/digtdttj/public_html/mysqli_connection.php on line 6
+[23-May-2021 02:20:25 America/New_York] PHP Notice:  Constant DB_HOST already defined in /home/digtdttj/public_html/mysqli_connection.php on line 7
+[23-May-2021 08:59:04 America/New_York] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/digtdttj/public_html/register-process.php on line 6
+[23-May-2021 08:59:04 America/New_York] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/digtdttj/public_html/register-process.php on line 6
+[23-May-2021 08:59:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digtdttj/public_html/register-process.php on line 6
+[31-May-2021 06:59:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[31-May-2021 06:59:58 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:58 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:58 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:00 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:00 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:00 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:00 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:15 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:15 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:22 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:22 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:30 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:31 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:37 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:44 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:51 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 07:13:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 07:13:58 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:37 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:37 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:37 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:38 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:38 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:38 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:39 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:40 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:40 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:45 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:45 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:48 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:48 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:53 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:53 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:54 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:55 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:55 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:55 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:34:56 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:34:56 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:35:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:35:04 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:35:11 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:35:11 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:35:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:35:19 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:35:26 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:35:26 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:10 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:10 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:19 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:19 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:28 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:28 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:36 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:36 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:44 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:44 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:51 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:51 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:36:58 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:36:58 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
+[21-Jul-2021 12:37:04 America/New_York] PHP Notice:  Undefined index: email in /home/digtdttj/public_html/login-process.php on line 7
+[21-Jul-2021 12:37:04 America/New_York] PHP Notice:  Undefined index: password in /home/digtdttj/public_html/login-process.php on line 14
