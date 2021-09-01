@@ -119,6 +119,14 @@ $email = $_SESSION['email'];
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="wallet.php" class="nav-link">
+              <i class="nav-icon fas fa-users"></i>
+              <p>
+                Wallet address
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

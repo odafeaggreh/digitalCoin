@@ -1,9 +1,9 @@
 <?php
 
 // define constants variables
-define('DB_NAME', 'digtdttj_coin');
-define('DB_USER', 'digtdttj_coinUser');
-define('DB_PASSWORD', 'Sonthelastmob1997');
+define('DB_NAME', 'coin');
+define('DB_USER', 'root');
+define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
 
 
