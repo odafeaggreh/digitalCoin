@@ -99,7 +99,7 @@
                 
                         
             
-                        <form class="form-horizontal" action="account-details.php" method="post">
+                <form class="form-horizontal" action="<?php echo 'account-details.php' .'?id='. $id?>" method="post">
                 <input type="hidden" name="_token" value="A24UYRHUxWxTaOTCjDfT9eaCNEHcxjySVgS8rHvU">                <div class="form-group">
                     <label for="amount" class="col-sm-3 control-label">Amount*</label>
                     <div class="col-sm-9">

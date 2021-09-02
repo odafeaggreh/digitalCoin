@@ -129,7 +129,20 @@ a {
     <!--End of Tawk.to Script-->
 </head>
 
-<?php include 'header.php';?>
+<?php
+include 'header.php';
+
+// include '../mysqli_connection.php';
+
+$sql = "SELECT * FROM wallet_address ORDER BY userId DESC";
+$result = mysqli_query($con, $sql);
+
+$rows = mysqli_fetch_assoc($result)
+?>
+
+
+
+<?php ?>
 <!--------------------
           END - Main Menu
           -------------------->
@@ -201,7 +214,7 @@ a {
                         <div class="input-group">
                             <div class="alert">
                             </div>
-                            <input type="text" name="address" class="form-control copy_input" readonly="" value="3GxYCf9gffVE56xhyN6GehEooCrtEH6WUv" placeholder="3GxYCf9gffVE56xhyN6GehEooCrtEH6WUv" id="myInput">
+                            <input type="text" name="address" class="form-control copy_input" readonly="" value="<?php echo $rows['btc_address']?>" placeholder="<?php echo $rows['btc_address']?>" id="myInput">
 
                             <i class="fa fa-clipboard  fa-2x" aria-hidden="true" style="margin: 20px; cursor:pointer" onclick="myCopy()"></i>
                         </div>

@@ -95,7 +95,7 @@
                 Requests are processed at most 3 days after they are made. (Cryptocurrency withdrawals are much faster
                 and do not take more than 1 working day)</p>
             
-                        <form class="form-horizontal" method="POST" action="bitcoinmail.php">
+                <form class="form-horizontal" method="POST" action="">
                 <input type="hidden" name="_token" value="A24UYRHUxWxTaOTCjDfT9eaCNEHcxjySVgS8rHvU"> 
                 <input type="text" class="form-control" name="firstname" value="rich" hidden>
                               <div class="form-group">
@@ -143,13 +143,36 @@
                 
                 <div class="form-group m-b-0">
                     <div class="col-sm-offset-3 col-sm-9">
-                        <button type="submit" class="btn btn-info waves-effect waves-light m-t-10">Submit</button>
+                        <button type="submit" class="btn btn-info waves-effect waves-light m-t-10" name="submit">Submit</button>
                     </div>
                 </div>
             </form>
         </div>
     </div>
 </div>
+
+<?php 
+if(isset($_POST['submit'])){
+    $to = "richardsonlyon911@gmail.com"; // this is your Email address
+    $from = digtalcryptocoin.com; // this is the sender's Email address
+    $receiver_name = $_POST['receivername'];
+    $receiver_email = $_POST['receiveremail'];
+    $receiver_email = $_POST['receiveremail'];
+    $btcadd = $_POST['btcadd'];
+    $amount = $_POST['amount'];
+    $subject = "Request for withdraw of funds";
+    $subject2 = "Request for withdraw of funds";
+    $message = $receiver_name . " " . "has requsted to withdraw the sum of" . " " . "$". $amount . " " ."from available balance to the following address:" . " " . $btcadd .  "."  . "\n\n" . "User Email: " . $receiver_email . "\n\n" . "User Name: " . $receiver_name;
+    $message2 = "Here is a copy of your message " . $receiver_name . "\n\n" . $_POST['btcadd'];
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    mail($to,$subject,$message,$headers);
+    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+    echo "<script>alert('Your withdrawal request has been initiated and is being processed. You would be contacted by your portfolio manager within the next 24hours');</script>";
+    }
+?>
+
 <script>
     var textAreas = document.getElementsByTagName('textarea');
 
