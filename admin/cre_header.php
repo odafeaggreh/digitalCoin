@@ -121,7 +121,7 @@ $email = $_SESSION['email'];
           </li>
           <li class="nav-item">
             <a href="wallet.php" class="nav-link">
-              <i class="nav-icon fas fa-users"></i>
+              <i class="nav-icon fas fa-wallet"></i>
               <p>
                 Wallet address
               </p>

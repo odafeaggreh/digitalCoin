@@ -10,12 +10,12 @@
 
 
 <?php
-  include 'reaad.php';
+  include 'wallet_read.php';
 ?>
 
 <?php
   include 'myconn.php';
-  $sql = "SELECT userID FROM users ORDER BY userID";
+  $sql = "SELECT userId FROM wallet_address ORDER BY userId";
   $row_result = mysqli_query($con, $sql);
 
   $rows_num = mysqli_num_rows($result);
@@ -31,12 +31,12 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0">Create Users</h1>
+            <h1 class="m-0">Wallet Address</h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Create users</li>
+              <li class="breadcrumb-item active">Wallet address</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
@@ -48,33 +48,14 @@
 
     <!-- Main content -->
     <section class="content">
-      <div class="container-fluid">
-        <!-- Small boxes (Stat box) -->
-        <div class="row">
-          
-          <div class="col-lg-3 col-6">
-            <!-- small box -->
-            <div class="small-box bg-warning">
-              <div class="inner">
-                <h3><?php echo '<h1>'.$rows_num.'</h1>';?></h3>
-
-                <p>Registered users</p>
-              </div>
-              <div class="icon">
-                <i class="ion ion-person-add"></i>
-              </div>
-            </div>
-          </div>
-          
-          <!-- ./col -->
-        </div>
+      
         <!-- /.row -->
         <!-- Main row -->
         
         <!-- /.row (main row) -->
       <div class="container">
         <div class="box">
-          <h4 class="display-4 text-center">User List</h4><hr><br>
+          <h4 class="display-4 text-center">Wallet Address</h4><hr><br>
           <?php if (isset($_GET['success'])) {?>
           <div class="alert alert-success" role="alert">
             <?php echo $_GET['success']?>
@@ -84,19 +65,12 @@
 
           
           <div class="table-responsive">
-            <table class="table table-striped">
+            <table class="table table-striped" style="width: 90%">
               <thead>
                 <tr>
                   <th scope="col">#</th>
-                  <th scope="col">First Name</th>
-                  <th scope="col">Last Name</th>
-                  <th scope="col">Email</th>
-                  <th scope="col">Total Balance</th>
-                  <th scope="col">Total Deposit</th>
-                  <th scope="col">Profit</th>
-                  <th scope="col">Crypto Address</th>
-                  <th scope="col">Plan</th>
-                  <th scope="col">Action</th>
+                  <th scope="col">BTC Address</th>
+                  <th scope="col" style="text-align: center">Action</th>
                 </tr>
               </thead>
               <tbody>
@@ -110,18 +84,9 @@
                 
                 <tr>
                   <th scope="row"><?=$i?></th>
-                  <td><?php echo $rows['firstName']?></td>
-                  <td><?php echo $rows['lastName']?></td>
-                  <td><?php echo $rows['email']?></td>
-                  <td><?php echo $rows['totalbalance']?></td>
-                  <td><?php echo $rows['totaldeposit']?></td>
-                  <td><?php echo $rows['profit']?></td>
-                  <td><?php echo $rows['btcaddress']?></td>
-                  <td><?php echo $rows['plan']?></td>
-                  <td style="display:flex; flex-direction:row;">
-                    <a href="update.php?id=<?php echo $rows['userID']?>" class="btn btn-success" style="margin: 0 7px">Update</a>
-                  
-                    <a href="delete.php?id=<?php echo $rows['userID']?>" class="btn btn-danger">Delete</a>
+                  <td><?php echo $rows['btc_address']?></td>
+                  <td style="display:flex; flex-direction:row; justify-content: flex-end;">
+                    <a href="wallet_update.php?id=<?php echo $rows['userId']?>" class="btn btn-success" style="margin: 0 7px">Update</a>
                   </td>
                 </tr>
               <?php }?>
@@ -129,7 +94,7 @@
             </table>
           <?php }?>
             <div class="link-right">
-              <a href="dashboard.php" class="link-primary">Creat a users</a>
+              <a href="dashboard.php" class="link-primary" style="margin-right: 100px;">Creat a users</a>
             </div>
           </div>
         </div>
